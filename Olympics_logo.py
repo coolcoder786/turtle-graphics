@@ -1,7 +1,7 @@
 import turtle
 t = turtle.Turtle()
-t.pensize(6) #Set the thickness of the pen to 6
-firstRowColors = ["blue", "black", "red"] #firstRowColors is a list of colors that are present in the first row of logo
+t.pensize(6)
+firstRowColors = ["blue", "black", "red"]
 for i in range(3):
   t.penup()
   t.pencolor(firstRowColors[i])
