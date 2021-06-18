@@ -81,7 +81,7 @@ forward(60)
 penup()
 goto(-150,-100)
 pendown()
-write("cool_programmer7",move=True,font=("Calibri",20,"bold"))
+write("cool_programmer7",move=True,font=("Calibri",10,"bold"))
 hideturtle()
 
 done()
