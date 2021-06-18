@@ -1,5 +1,5 @@
 from turtle import *
-speed(20)
+speed(10)
 bgcolor("black")
 penup()
 goto(-20,-20)
@@ -81,7 +81,7 @@ forward(60)
 penup()
 goto(-150,-100)
 pendown()
-write("WHATSAPP",move=True,font=("Calibri",40,"bold"))
+write("cool_programmer7",move=True,font=("Calibri",20,"bold"))
 hideturtle()
 
 done()
